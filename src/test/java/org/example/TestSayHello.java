@@ -14,25 +14,25 @@ public class TestSayHello {
     String message = "Hello World";
     SayHello sayHello = new SayHello(message);
 
-//    @BeforeClass
-//    public static void beforeClass() {
-//        System.out.println("Before Class");
-//    }
-//
-//    @AfterClass
-//    public static void afterClass() {
-//        System.out.println("After Class");
-//    }
-//
-//    @Before
-//    public void beforeMethod() {
-//        System.out.println("Before Method");
-//    }
-//
-//    @After
-//    public void afterMethod() {
-//        System.out.println("After Method");
-//    }
+    @BeforeClass
+    public static void beforeClass() {
+        System.out.println("Before Class");
+    }
+
+    @AfterClass
+    public static void afterClass() {
+        System.out.println("After Class");
+    }
+
+    @Before
+    public void beforeMethod() {
+        System.out.println("Before Method");
+    }
+
+    @After
+    public void afterMethod() {
+        System.out.println("After Method");
+    }
 
     @Test
     public void testHelloWorld() {
