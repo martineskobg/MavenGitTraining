@@ -6,8 +6,7 @@ out/
 workspace.xml
 # ignore ALL .log files
 
-# ignore ALL files in ANY directory named temp
-
+#CHANGE IN MASTER BRANCH
 
 ### Eclipse ###
 .apt_generated
