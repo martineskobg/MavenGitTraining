@@ -6,8 +6,7 @@ out/
 workspace.xml
 # ignore ALL .log files
 
-# ignore ALL files in ANY directory named temp
-
+#CHANGE IN MARTO BRANCH
 
 ### Eclipse ###
 .apt_generated
@@ -27,7 +26,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-::::>>>>>>>>>
-Branch MASTER change::::>>>>>>>>>
-::::>>>>>>>>>
+
+Branch MASTER change
+m1
+
 
