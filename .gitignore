@@ -20,4 +20,4 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-# this row needs to be fixed manually in order to resolve a conflict with dev2 branch!
+# features from dev2
