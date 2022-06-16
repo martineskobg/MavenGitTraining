@@ -6,7 +6,7 @@ out/
 workspace.xml
 # ignore ALL .log files
 
-#CHANGE IN MASTER BRANCH
+# Change made by MASTER branch
 
 ### Eclipse ###
 .apt_generated
@@ -19,15 +19,3 @@ workspace.xml
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
-
-Branch MASTER change
-m1
-
-
